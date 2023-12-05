@@ -5,8 +5,10 @@
 
 For FrontEnd
 > cd public
+
 > yarn start
 
 For Backend
 > cd server
+
 > yarn start
